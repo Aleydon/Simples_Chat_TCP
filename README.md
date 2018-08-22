@@ -43,15 +43,17 @@ class ServidorChat(object):
 
 ```
 
-### ScreenShot do servidor onde o ip e a porta o do Ngrok
+### ScreenShot do servidor inserido  ip e a porta  do Ngrok
+> Abaixo apenas um exemplo, sem o Ngrok.
 
 
 ![servertermux](https://user-images.githubusercontent.com/34782498/44436767-5af86480-a58d-11e8-85c3-d7f24eee4864.png)
 
-> Inserindo o ip e porta do Ngrok para o servidor 
 
 
-#### Acessando o servidor com o ip e porta que o Ngrok forneceu
+
+# Cliente
+> Acessando ao servidor com o ip e porta que o Ngrok forneceu
 
 ```python
 
